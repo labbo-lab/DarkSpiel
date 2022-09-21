@@ -1,0 +1,1 @@
+javascript:void%20function(){sndcnvs=document.getElementById(%22sand-canvas%22),bgmain=document.getElementById(%22background%22),uibuttons=document.getElementById(%22ui%22),uibuttons.style.backgroundColor=%22%23404040%22,sndcnvs.style.backdropFilter=%22invert(1)%22,bgmain.style.backgroundColor=%22%231f1f1f%22}();
